@@ -1,4 +1,4 @@
-# GNGARCH_coding
+# DCC-GNGARCH_coding
 
 This repository includes the codes used for the simulation and implementation of the paper: A new implementation of Network GARCH Model for stock volatility and co-volatility forecasting, all plots and parameter fitting results are included in these notebook files, and stock data are downloaded from Yahoo Finance (https://finance.yahoo.com/markets/stocks/most-active/), using `yfinance` directly in Python.
 
